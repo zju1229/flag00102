@@ -13,3 +13,7 @@ hello world!
 > POT
 
 ## New [important](./Important_Notice.md)
+
+!!! 法律声明
+本系统为主动防御蜜罐，所有访问行为将被记录
+继续操作即代表同意承担安全风险
